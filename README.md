@@ -1,5 +1,5 @@
 # spotkajmy-sie
-Simple meeting planner that compares two calendars and finds free spaces that can fit a meeting of passed duration
+Simple meeting planner that compares two calendars and finds free spaces that can fit a meeting of passed length
 
 W zadaniu wydaje się być błąd, lub nie do końca je zrozumiałem.
 Jeden z zakresów jest niemożliwy do osiągnięcia przy przykładowych kalendarzach. 
